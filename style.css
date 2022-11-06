@@ -1,0 +1,20 @@
+body{
+    background-color: tomato;
+}
+#score{
+    font-size: 25px;
+    margin-left:10%; 
+   float: left;
+
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 10%;
+}
+p{
+    font-size: 25px;
+}
+#sketch_to_be_drawn{
+    color: rgb(18, 18, 165);
+}
